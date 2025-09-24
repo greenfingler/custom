@@ -37,7 +37,7 @@ To locally run it:
 3. run
 
 ```sh
-git clone https://github.com/clynamic/joi.how.git
+git clone https://github.com/greenfingler/custom.git
 cd joi.how
 yarn
 yarn build
